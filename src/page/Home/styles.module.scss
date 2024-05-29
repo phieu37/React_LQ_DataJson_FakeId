@@ -1,0 +1,21 @@
+.wrapperFormTop {
+  display: flex;
+  justify-content: space-around;
+  margin: 40px;
+}
+
+.wrapperForm {
+  .inputWrapper {
+    display: flex;
+    margin-bottom: 20px;
+    .label {
+      width: 160px;
+    }
+  }
+}
+
+.wapperButton {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 20px;
+}
